@@ -1,3 +1,5 @@
+## Europe Airbnb Dataset
+
 **Introduction:**
 To analyse the dataset, we use inferential tools and machine learning methods like hypothesis, simple linear regression, random forest etc. 
 Firstly, we start by the formulation of hypothesis based on the business questions that we are targeting. In order to do this, it is critical to identify the independent and dependent variables along with the target that the analysis is aiming towards. 
